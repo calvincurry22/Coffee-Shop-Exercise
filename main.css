@@ -1,0 +1,42 @@
+body {
+    background-color: skyblue;
+}
+
+.pageHeader {
+    margin: 1em;
+    text-align: center;
+}
+
+.shop {
+    background-color: goldenrod;
+    border: solid 1px black;
+    color: brown;
+    flex-basis: 25%;
+    padding-left: 0.3em;
+   }
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+em {
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
+
+address {
+    color: black;
+}
+
+div {
+    color: black;
+}
+
+
+
+#fishtank {}
+.fish {}
+.fish__name {}
